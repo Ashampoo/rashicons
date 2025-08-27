@@ -16,7 +16,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "BladeUI\\Heroicons\\BladeHeroiconsServiceProvider"
+                "BladeUI\\Rashicons\\BladeHeroiconsServiceProvider"
             ]
         }
     },
